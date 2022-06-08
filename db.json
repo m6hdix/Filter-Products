@@ -1,94 +1,108 @@
 {
     "posts": [{
             "id": 1,
-            "title": "mgsf",
-            "class": "T-shirt",
+            "title": "shoes",
+            "class": "shoes",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/shoes?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 2,
+            "title": "shoes",
+            "class": "shoes",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/shoes?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 3,
+            "title": "shoes",
+            "class": "shoes",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/shoes?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 4,
+            "title": "shoes",
+            "class": "shoes",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/shoes?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 5,
+            "title": "shoes",
+            "class": "shoes",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/shoes?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 6,
+            "title": "furniture",
+            "class": "furniture",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/furniture?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 7,
+            "title": "furniture",
+            "class": "furniture",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/furniture?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 8,
+            "title": "furniture",
+            "class": "furniture",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/furniture?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 9,
+            "title": "furniture",
+            "class": "furniture",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/furniture?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 10,
+            "title": "furniture",
+            "class": "furniture",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/furniture?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 11,
+            "title": "watch",
+            "class": "Watch",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/watch?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 12,
+            "title": "watch",
+            "class": "Watch",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/watch?w=384&h=200"
         },
         {
-            "id": 1,
-            "title": "T-shirt",
-            "class": "T-shirt",
+            "id": 13,
+            "title": "watch",
+            "class": "Watch",
             "price": "23$",
-            "img": "https://api.lorem.space/image/shoes?w=150&h=150"
+            "img": "https://api.lorem.space/image/watch?w=384&h=200"
+        },
+        {
+            "id": 14,
+            "title": "watch",
+            "class": "Watch",
+            "price": "23$",
+            "img": "https://api.lorem.space/image/watch?w=384&h=200"
+        },
+        {
+            "id": 15,
+            "title": "watch",
+            "class": "Watch",
+            "price": "23$",
+            "img": "https://api.lorem.space/image/watch?w=384&h=200"
         }
     ]
 }
